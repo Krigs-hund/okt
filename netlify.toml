@@ -4,9 +4,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.142.0"
-  
-[context.production.environment]
-  HUGO_ENV = "production"
-
-[[plugins]]
-  package = "@netlify/plugin-hugo"
