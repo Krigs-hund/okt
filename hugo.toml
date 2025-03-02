@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { telegram = "https://t.me/nononotattoo" },
+    { group = { href = "https://t.me/+S_Qp2P_zsaz983_x", text = "Чат" } },
     { youtube = "https://www.youtube.com/@okolotattooing" },
     { instagram = "https://www.instagram.com/okolotattooing" },
     { group = { href = "https://vk.com/okolotattoo", text = "Vk" } },
